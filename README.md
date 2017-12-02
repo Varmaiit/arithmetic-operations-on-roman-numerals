@@ -18,17 +18,18 @@ Result: XL + X = L
 Also printing Unit test Results
 
         testing function 'test_arithmetic_on_roman'
-        [OK] in 'test_arithmetic_on_roman' 0.0000000000 sec
+        [OK] in 'test_arithmetic_on_roman' 0.0009999275 sec
 .
         testing function 'test_int_to_roman'
-        [OK] in 'test_int_to_roman' 0.0000000000 sec
+        [OK] in 'test_int_to_roman' 0.0009999275 sec
 .
         testing function 'test_roman_to_int'
         [OK] in 'test_roman_to_int' 0.0000000000 sec
 .
 ----------------------------------------------------------------------
-Ran 3 tests in 0.001s
+Ran 3 tests in 0.003s
 
-OK ```
+OK 
+```
 
 
